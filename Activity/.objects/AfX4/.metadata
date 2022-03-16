@@ -1,0 +1,11 @@
+﻿{
+  "Id": "AfX4oDIo-EmLiZZx51NH6Q",
+  "Reference": "eAkLbGRo_0C6-p3h539zXQ/AfX4oDIo-EmLiZZx51NH6Q",
+  "Name": "NewApplication",
+  "Type": "App",
+  "Created": "2022-03-12T10:53:06.6568221Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-12T10:53:06.6568221Z"
+}

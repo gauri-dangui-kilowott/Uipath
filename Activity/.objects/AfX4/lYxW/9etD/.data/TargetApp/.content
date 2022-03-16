@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="-11, -11, 1942, 1030" BrowserType="Chrome" ContentHash="pZf7LKM8Y0-6Id19qyQIHA" Selector="&lt;html app='chrome.exe' title='QuickBooks'/&gt;" Url="https://app.sandbox.qbo.intuit.com/app/homepage" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0QZIU3KJCOkq14n-VVq4QSw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="e014b72d69a00f58d0b20351ef079467.png" xmlns="">0VFHU1dd0ukCxjHL7AYYyiQ</imageRef>
+</TargetApp>

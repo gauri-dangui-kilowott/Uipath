@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://app.sandbox.qbo.intuit.com/app/homepage" ContentHash="lr4TYMGvjk2dWHLet_XWXw" DesignTimeRectangle="83, 477, 240, 60" ElementType="Text" FriendlyName="'Get paid &amp; pay'" FullSelectorArgument="&lt;webctrl aaname='Get paid &amp;amp; pay' parentid='L1-nav-items-holder' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Get paid &amp;amp; pay' parentid='*' tag='SPAN' type='' check:text='Get paid &amp;amp; pay' /&gt;" Guid="6caed275-d9c0-4b63-b3ed-a1c28e6781be" Reference="eAkLbGRo_0C6-p3h539zXQ/JgNqRwZ5Nk-_dC_Ld5SXrQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='QuickBooks' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">01KE2XBpXQ0-8lN911XofCA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="6901fe30051f9337480bb9271151bb7b.png" xmlns="">0gXxBBsOLgECefi7NqfCLUw</imageRef>
+</TargetAnchorable>

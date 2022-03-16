@@ -1,0 +1,14 @@
+﻿{
+  "Id": "9etDcGA3J0KOxWKUmfswew",
+  "Reference": "eAkLbGRo_0C6-p3h539zXQ/9etDcGA3J0KOxWKUmfswew",
+  "ParentRef": "eAkLbGRo_0C6-p3h539zXQ/lYxW5fM-DE6fxShpOqlWlw",
+  "Name": "Chrome QuickBooks",
+  "Type": "Screen",
+  "TaxonomyType": "Screen",
+  "Created": "2022-03-12T10:53:10.8840727Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-12T10:53:10.8840727Z"
+}

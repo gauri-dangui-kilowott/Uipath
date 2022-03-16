@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Mp4rDpJOLk25fDRKDyRMvg",
+  "Reference": "eAkLbGRo_0C6-p3h539zXQ/Mp4rDpJOLk25fDRKDyRMvg",
+  "ParentRef": "eAkLbGRo_0C6-p3h539zXQ/JgNqRwZ5Nk-_dC_Ld5SXrQ",
+  "Name": "Get paid and pay",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Created": "2022-03-12T10:53:59.961568Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-03-12T10:53:59.961568Z"
+}
